@@ -1,2 +1,5 @@
 flask==0.12.2
 gunicorn==19.7.1
+Flask-SQLAlchemy==2.3.2
+gevent==1.2.2
+psycopg2-binary==2.7.4
